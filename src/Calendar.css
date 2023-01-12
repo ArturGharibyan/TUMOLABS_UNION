@@ -1,0 +1,35 @@
+
+.calendar{
+    background-color: #080710;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+
+.calendarDayOfWeek{
+    color: white;
+}
+
+.calendarHeader{
+    color: white;
+}
+
+.calendar_h1{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+}
+
+.calendarHeaderButtons>button{
+    
+background-color:#544c9e;;
+    color: rgb(255, 255, 255);
+}
+
+
+.modeWrapper>button{
+    background-color: #544c9e;
+    color: white;
+}
+

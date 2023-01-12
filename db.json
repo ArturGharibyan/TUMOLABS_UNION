@@ -1,0 +1,108 @@
+{
+  "users": [
+    {
+      "name": "Արթուր",
+      "surname": "Ղարիբյան",
+      "email": "arturgharibyan041@gmail.com",
+      "phone": "+374 94 772558",
+      "id": 1
+    },
+    {
+      "name": "Արթուր",
+      "surname": "Ղարիբյան",
+      "email": "arturgharibyan041@gmail.com",
+      "phone": "+374 94 772558",
+      "id": 2
+    }
+  ],
+  "staffs": [
+    {
+      "id": 0.870451045209705,
+      "name": "George",
+      "surname": "Johnson",
+      "job": "Student Union Director",
+      "img": "/staffimg/direct.jpg"
+    },
+    {
+      "id": 0.870451045201738,
+      "name": "John",
+      "surname": "Wick",
+      "job": "Math. Consultant",
+      "img": "/staffimg/images-4.jpg"
+    },
+    {
+      "id": 0.87045104521973,
+      "name": "Anna",
+      "surname": "Fox",
+      "job": "Writing consultant",
+      "img": "/staffimg/images-5.jpg"
+    },
+    {
+      "id": 0.870451045209758,
+      "name": "Olivia",
+      "surname": "Smith",
+      "job": "Engineering consultant",
+      "img": "/staffimg/images-1.jpg"
+    },
+    {
+      "id": 0.470451045209712,
+      "name": "Charlotte",
+      "surname": "Williams",
+      "job": "Coordinator",
+      "img": "/staffimg/images.jpg"
+    },
+    {
+      "id": 0.170451045209796,
+      "name": "Elijah",
+      "surname": "Brown",
+      "job": "Counselor and manager of Disability support services",
+      "img": "/staffimg/manager.jpg"
+    },
+    {
+      "id": 0.97045104520971,
+      "name": "Amelia",
+      "surname": "Jones",
+      "job": "Career advisor ",
+      "img": "/staffimg/0x0.jpg"
+    },
+    {
+      "id": 0.770451845209711,
+      "name": "Liana",
+      "surname": "Garcia",
+      "job": "Study abroad coordinator",
+      "img": "/staffimg/images-2.jpg"
+    }
+  ],
+  "studentlife": [
+    {
+      "id": "1",
+      "url": "/img/Image-8-1.jpg",
+      "title": "42 Yerevan"
+    },
+    {
+      "id": "2",
+      "url": "/img/AsRor.jpg",
+      "title": "Self Learning "
+    },
+    {
+      "id": "3",
+      "url": "/img/Image-9.jpg",
+      "title": "Learning routine "
+    },
+    {
+      "id": "4",
+      "url": "/img/img_1308.jpg",
+      "title": "Working process on a project"
+    },
+    {
+      "id": "5",
+      "url": "/img/sy.jpg",
+      "title": "Experience sharing"
+    },
+    {
+      "id": "6",
+      "url": "/img/2022.jpg",
+      "title": "Workshop"
+    }
+  ]
+}
